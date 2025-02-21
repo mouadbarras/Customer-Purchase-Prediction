@@ -1,4 +1,4 @@
-# Customer Purchase Prediction
+# Practical Exam: Customer Purchase Prediction
 This project provides a solution to predict customer purchases for RetailTech Solutions. It presents a comprehensive pipeline that starts from raw data cleaning and feature engineering and culminates in building and training a neural network using PyTorch.
 
 ## Overview
@@ -41,10 +41,7 @@ The project is divided into three main tasks:
     ├── model_data.csv                # Pre-cleaned data for feature engineering
     ├── input_model_features.csv      # Features for training the neural network
     ├── validation_features.csv       # Data for generating purchase predictions
-    └── src/
-        ├── data_cleaning.py          # Script for Task 1
-        ├── feature_engineering.py    # Script for Task 2
-        └── train_model.py            # Script for Task 3
+    └── notebook.ipynb
 
 
 ## Installation

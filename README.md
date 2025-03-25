@@ -56,8 +56,8 @@ The project is divided into three main tasks:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/mouadbarras/Customer-Purchase-Prediction.git
+   cd Customer-Purchase-Prediction
 
 2. **Install dependencies:**
 
